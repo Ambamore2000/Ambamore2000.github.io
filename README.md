@@ -1,4 +1,6 @@
+<p align="center">
 ## Welcome to my website
+</p>
 
 You can use the [editor on GitHub](https://github.com/Ambamore2000/Ambamore2000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
