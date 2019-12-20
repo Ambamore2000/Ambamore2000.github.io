@@ -12,7 +12,7 @@ And this might help with my resumes? I don't know, but whatever.
 
 
 ## **2019 Fall Semester**
-- [COMP 051](https://ambamore2000.github.io/college/COMP051/)
+- [COMP 051](https://ambamore2000.github.io/COMP051/)
 
 ## **2019 Spring Semester**
 - COMP 053 (Currently Taking)
