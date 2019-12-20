@@ -4,7 +4,7 @@ title: COMP051
 subtitle: Fall 2019
 ---
 
-[Project One](https://andrewjkim.me/2019-08-15-Project-One)
+[Project One](http://andrewjkim.me/2019-08-15-Project-One)
 
 [Project Two]()
 
