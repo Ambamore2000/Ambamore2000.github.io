@@ -1,6 +1,6 @@
 ---
 layout: runc++
-title: COMP051 - Project One
+title: COMP051 - Project OnE
 code: http://onlinegdb.com/embed/js/rkb9NHjAH?theme=dark
 tags: [COMP051]
 ---
