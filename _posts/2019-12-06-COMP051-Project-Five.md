@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COMP051 - Project Five
+code: http://onlinegdb.com/embed/js/BJcXfk2AB?theme=light
 tags: [COMP051]
 ---
 
