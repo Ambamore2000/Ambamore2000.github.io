@@ -21,7 +21,6 @@ use-site-title: true
     <p class="post-meta">
       Posted on {{ post.date | date: site.date_format }}
     </p>
-
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
@@ -31,7 +30,6 @@ use-site-title: true
       </div>
       {% endif %}
     </div>
-
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
@@ -44,7 +42,6 @@ use-site-title: true
       {% endif %}
     </div>
     {% endif %}
-
    </article>
   {% endfor %}
 </div>
