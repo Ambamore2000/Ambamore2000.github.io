@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMP051 - Project Five
-subtitle: Each post also has a subtitle
 tags: [COMP051]
 ---
 
