@@ -6,8 +6,7 @@ layout: base
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      
-      <script src="{{ page.code }}"></script>
+    
       
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
@@ -35,6 +34,8 @@ layout: base
       <article role="main" class="blog-post">
         {{ content }}
       </article>
+      
+      <script src="{{ page.code }}"></script>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
