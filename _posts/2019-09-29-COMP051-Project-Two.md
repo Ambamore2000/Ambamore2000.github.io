@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: runc++
 title: COMP051 - Project Two
 code: http://onlinegdb.com/embed/js/HkFt-1hCr?theme=light
 tags: [COMP051]
