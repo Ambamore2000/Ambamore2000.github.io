@@ -1,7 +1,7 @@
 ---
 layout: runc++
 title: COMP051 - Project Four
-code: http://onlinegdb.com/embed/js/HkgpgJ3AS?theme=light
+code: http://onlinegdb.com/embed/js/HkgpgJ3AS?theme=undefined
 tags: [COMP051]
 ---
 
