@@ -1,7 +1,7 @@
 ---
 layout: runc++
 title: COMP051 - Project Five
-code: http://onlinegdb.com/embed/js/HJiEDDevL?theme=undefined
+code: //onlinegdb.com/embed/js/HJiEDDevL?theme=undefined
 tags: [COMP051]
 ---
 
